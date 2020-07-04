@@ -1,7 +1,7 @@
 <template>
   <transition name="el-zoom-in-top">
     <div v-show="visible">
-      <span>1235</span>
+      <span>消失</span>
       <button @click="sw">
         点击
       </button>
